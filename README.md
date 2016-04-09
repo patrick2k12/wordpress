@@ -1,1 +1,3 @@
-Read me file changed for the migration of git to wordpress.
+# wordpress
+# changed file -ajay development brach file
+Line 3 new for wordpress sync.
